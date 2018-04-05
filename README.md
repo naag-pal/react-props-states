@@ -12,7 +12,7 @@ App.propTypes = {
 ```
 
 
-## How to create `pros` and use them in the component
+## How to create `props` and use them in the component
 
 Creating Default Props
 
